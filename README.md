@@ -6,6 +6,13 @@ O projeto "Agrinho Semeando Inovações" visa promover a inovação no campo agr
 ## Sobre o Projeto
 O "AgriTech Manager" foi criado para fornecer aos pequenos agricultores uma ferramenta robusta e acessível para gerenciar suas operações diárias. Com uma interface intuitiva e funcionalidades abrangentes, os usuários podem rastrear suas atividades agrícolas, monitorar o estoque e gerar relatórios financeiros detalhados.
 
+## Acesso
+
+Você pode acessar o site no GitHub Pages [aqui](https://<seu-usuario>.github.io/<nome-do-repositorio>/) ou
+Vercel [aqui](https://bruna-dois.vercel.app/).
+
+## Instruções de Uso
+
 ## Funcionalidades
 - Gerenciamento de colheitas: acompanhamento de plantio, crescimento e colheita.
 - Controle de estoque: monitoramento de insumos e produtos armazenados.
